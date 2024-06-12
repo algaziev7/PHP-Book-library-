@@ -1,0 +1,101 @@
+[
+    {
+        "id": "book0",
+        "title": "City of the Gods",
+        "author": "Sonny Whitelad",
+        "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who preferred to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+        "year": 2005,
+        "image": "book_cover_1.png",
+        "planet": "P3X-8596",
+        "ratings": [
+            3,
+            1,
+            2
+        ],
+        "reviews": [
+            {
+                "username": "Jantik",
+                "comment": "dfd",
+                "rating": 3
+            },
+            {
+                "username": "Almaz",
+                "comment": "Good",
+                "rating": 1
+            },
+            {
+                "username": "Almaz7",
+                "comment": "Good",
+                "rating": 2
+            }
+        ],
+        "genre": "Fantasy"
+    },
+    {
+        "id": "book1",
+        "title": "The Power Behind The Throne",
+        "author": "Steven Savile",
+        "description": "P3X-797 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the 'Touched' exist. The light side is inhabited by the 'Untouched'. A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": 2007,
+        "image": "book_cover_2.png",
+        "planet": "P3X-797",
+        "ratings": [
+            1
+        ],
+        "reviews": [
+            {
+                "username": "admin1",
+                "comment": "1",
+                "rating": 1
+            }
+        ],
+        "genre": "Science Fiction"
+    },
+    {
+        "id": "book665475e291f41",
+        "title": "Almaz",
+        "author": "df",
+        "description": "df",
+        "year": 7,
+        "image": "book_cover_3.png",
+        "planet": "ccc",
+        "ratings": [],
+        "reviews": [],
+        "genre": "Science Fiction"
+    },
+    {
+        "id": "book6669b202aee45",
+        "title": "The Door",
+        "author": "Magda Szab\u00f3",
+        "description": "The Door is a novel by Hungarian writer Magda Szab\u00f3. The Door was originally published in Hungary in 1987, and translated into English in 1995 by Stefan Draughon for American publication, and again in 2005 by Len Rix for British publication.",
+        "year": 1987,
+        "image": "book_cover_3.png",
+        "planet": "P3X-8596",
+        "ratings": [],
+        "reviews": []
+    },
+    {
+        "id": "book6669b370ca31f",
+        "title": "Journey by Moonlight",
+        "author": "Antal Szerb",
+        "description": "Journey by Moonlight is a 1937 novel by Hungarian writer Antal Szerb. It is among the best-known novels in contemporary Hungarian literature. According to English literary critic Nicholas Lezard, it is \"one of the greatest works of modern European literature.",
+        "year": 1937,
+        "genre": "Novel",
+        "image": "book_cover_6.png",
+        "planet": "P3X-8596",
+        "ratings": [],
+        "reviews": []
+    },
+    {
+        "id": "book6669b3c2bb540",
+        "title": "Journey by Moonlight",
+        "author": "Antal Szerb",
+        "description": "Journey by Moonlight is a 1937 novel by Hungarian writer Antal Szerb. It is among the best-known novels in contemporary Hungarian literature. According to English literary critic Nicholas Lezard, it is \"one of the greatest works of modern European literature.",
+        "year": 1937,
+        "genre": "Novel",
+        "image": "book_cover_6.png",
+        "planet": "P3X-8596",
+        "ratings": [],
+        "reviews": []
+    }
+]

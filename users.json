@@ -1,0 +1,16 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$dYH.oD3tf3xkfgOWCUw93.afs4G1kNIeYv3CyeJYnmT08\/wFH.HwG",
+        "last_login": "2024-06-12 14:51:08",
+        "is_admin": true
+    },
+    {
+        "username": "Almaz7",
+        "email": "almaz7@gmail.com",
+        "password": "$2y$10$Wqt6AtQi02cZj9soTiQTA.ROSwWjDg5LwXfjhxZ2PWaullSSzK3Em",
+        "last_login": "2024-06-12 14:58:18",
+        "is_admin": false
+    }
+]
